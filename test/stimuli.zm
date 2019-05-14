@@ -23,10 +23,10 @@ HISTORY:
 // Symbolic definition of item type.
 enum ItemType
 {
-    FILLER,                     // filler
-    GRAMM,                      // correct sentence
-    UNGR,                       // sentence has grammatical error
-    PRAC,                       // practice items
+    FILLER,                     // 
+    GRAM1,                      // Saingant
+    GRAM2,                      // A point
+    GRAM3,                      // Bien cuit
 }
 
 
