@@ -56,25 +56,27 @@ Block task
         {
 //            pause_page.set_text_size(1000, 600);
             pause_page.set_text(
-                "<b>Beste,</b>\n"
+                "<b>Beste Participant,</b>\n"
                 "\n"
                 "Dank je wel voor je deelname aan experiment.\n"
                 "\n"
-                "Je gaat nu zinnen op het scherm zien, de ene na de andere. "
-                "Elke zin is opgebroken in losse woorden. Je kunt de woorden "
-                "zichtbaar maken door steeds op de spatiebalk te drukken."
+                "Zodra het experiment begint, zal je zinnen één-voor-één op "
+                "het scherm te zien krijgen. Iedere zin is opgebroken in woorden. " 
+                "Je kunt de zin woord voor woord lezen door op de middelste knop "
+                "te drukken zodra je het woord gelezen hebt. Hierna zal het "
+                "volgende woord verschijnen. Lees de zinnen <i>stil</i> voor jezelf.\n "
+                "\n"
 
 //                "the button in front of you. "
-                "Op deze manier loop je door de zinnen heen. Jouw taak is om "
-                "elke zin zo snel mogelijk <i>stil</i> te lezen.\n"
+                "Soms zal na het lezen van een zin een vraag over deze zin "
+                "tevoorschijn komen. Beantwoord de vraag met ja of nee. Dit kan "
+                "met de linker en rechter knop op het bord. Het is de bedoeling "
+                "dat je de vragen correct beantwoordt, dus dat je de zinnen echt " 
+                "leest en probeert te begrijpen.\n "
                 "\n"
-                "Soms wordt een tekst gevolgd door een bewering. Je moet dan "
-                "aangeven of de bewering correct is of niet. "
-                "Daarom is het wel belangrijk dat je de zinnen echt <i>leest</i>.\n "
+                "De eerste drie volgende zinnen zullen een korte oefening zijn.\n"
                 "\n"
-                "Eerst doen we een paar voorbeeld-teksten.\n"
-                "\n"
-                "<i>Druk op ENTER om aan het voorbeeld te beginnen</i>", 
+                "<i>Druk op de knop als je er klaar voor bent.</i>", 
 //                "<i>Hit any button on the button-box when ready to start.</i>", 
                 true);
 

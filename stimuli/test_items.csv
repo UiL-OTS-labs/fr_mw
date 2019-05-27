@@ -9,7 +9,7 @@ index;id;type;segments;question;qanswer
 /sa chambre.";Wil daphne een andere tafel?;0
 0;006;GRAM1;"Louise/achète/#une jupe/#violette/dans
 /une boutique.";;
-0;007;GRAM1;"Patrick/habite/sur/#une île/#petite/près de
+0;007;GRAM1;"Patrick/habite/sur/#une île/#déserte/près de
 /l'Afrique.";;
 0;008;GRAM1;"Je/voudrais/nager/dans/#la mer/#froide/demain.";;
 0;009;GRAM1;"Jean/lit/#une histoire/#intéressante/dans
@@ -76,7 +76,7 @@ la solitude/#est/#parfaite/pour/sa carrrière.";;
 /est/en prison.";;
 0;052;GRAM3;"Je/préfère/une/ville/qui/#est/#vivante/mais/petite.";;
 0;053;GRAM3;"Didier/voit/une plante/qui/#est/#verte/dans
-/le parc.";Is didier in het park?;0
+/le parc.";Is didier in het park?;1
 0;054;GRAM3;"Eduardo/aime/cette pomme/qui/#est/#verte/et
 /délicieuse.";;
 0;055;GRAM3;"Timo/s'est/cassé/la jambe
