@@ -62,7 +62,7 @@ Page test_page
             init()
             {
                 fill_pattern_color = TEST_PAGE_STIMULUS_COLOR;
-                size = 900, 400;
+                size = 900, 200;
                 offset_x = 40;
                 offset_y = 40;
             }
@@ -299,7 +299,7 @@ Page test_page
 
         // Show or hide prompt.
         test_page_overlay.show_prompt(pr ? 
-            "read sentence word by word" : "");
+            "Lees de zinnen woord voor woord" : "");
 
         // Enable or disable the progress bar.
         test_page_overlay.show_progress_bar(ntrials);   // disabled if < 0
