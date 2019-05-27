@@ -1,50 +1,130 @@
 ### Test items ###;;;;;
 index;id;type;segments;question;qanswer
-0;1;GRAM1;"Jan/en/Marie/zaten/na/een/lange/
-werkdag/samen/te/wachten/in/de/
-stationsrestauratie/in/Amsterdam./
-Jan/at/een/broodje/met/ham,/#
-en/#Marie/#een/#koffie/#met/#veel/#melk./#De/#stemming/#
-was/#niet/#best,/#omdat/#de/#trein/meer/dan/
-30/minuten/vertraging/had.";Jan at een broodje.;1
-1;1;GRAM2;"Jan/en/Marie/zaten/na/een/lange/
-werkdag/samen/te/wachten/in/de/
-stationsrestauratie/in/Amsterdam./
-Jan/vroeg/een/broodje/met/ham,/#
-en/#Marie/#een/#koffie/#met/#veel/#melk./#De/#stemming/#
-was/#niet/#best,/#omdat/#de/#trein/meer/dan/
-30/minuten/vertraging/had.";Jan at een broodje.;1
-1;2;GRAM3;"Roos/en/Lisa/hadden/aangeboden/het/huis/
-van/oma/eens/flink/op/te/knappen/en/schoon/te/
-maken./Roos/schuurde/het/houtwerk/in/de/gang,/#
-en/#Lisa/#het/#tapijt/#in/#de/#kamer./#Oma/#wist/#
-niet/#wat/#ze/#zag/#en/#bedankte/de/dames/met/
-een/bos/bloemen.";;
-0;2;GRAM1;"Roos/en/Lisa/hadden/aangeboden/het/huis/
-van/oma/eens/flink/op/te/knappen/en/schoon/te/
-maken./Roos/schrobde/het/houtwerk/in/de/gang,/#
-en/#Lisa/#het/#tapijt/#in/#de/#kamer./#Oma/#wist/#
-niet/#wat/#ze/#zag/#en/#bedankte/de/dames/met/
-een/bos/bloemen.";;
-0;3;FILLER;"Op/het/introductiekamp/van/hun/nieuwe/studie/
-misten/Suzy/en/Jochem/hun/partner/meer/dan/ooit./
-Suzy/zocht/een/brief/van/haar/vriend,/en/Jochem/
-een/foto/van/zijn/vriendin./Gelukkig/duurde/het/
-kamp/maar/vijf/dagen.";Suzy zocht een foto.;0
-0;4;FILLER;"Martijn/en/Jessica/verwachtten/samen/hun/
-eerste/kindje/en/vonden/het/leuk/zelf/
-babyspulletjes/te/maken./Martijn/zaagde/
-een/bedje/van/hout,/terwijl/Jessica/een/
-dekentje/van/zachte/wol/breide./
-Het/resultaat/was/een/prachtige/wieg.";;
-1;3;GRAM2;"Op/het/introductiekamp/van/hun/nieuwe/studie/
-misten/Suzy/en/Jochem/hun/partner/meer/dan/ooit./
-Suzy/zocht/een/brief/van/haar/vriend,/en/Jochem/
-een/foto/van/zijn/vriendin./Gelukkig/duurde/het/
-kamp/maar/vijf/dagen.";Suzy zocht een foto.;0
-1;4;GRAM3;"Martijn/en/Jessica/verwachtten/samen/hun/
-eerste/kindje/en/vonden/het/leuk/zelf/
-babyspulletjes/te/maken./Martijn/zaagde/
-een/bedje/van/hout,/terwijl/Jessica/een/
-dekentje/van/zachte/wol/breide./
-Het/resultaat/was/een/prachtige/wieg.";;
+0;001;GRAM1;"Xavière/ne/savait/pas/#la vitesse/#moyenne/de
+/ce train.";Wist Xavière de gemiddelde snelheid van de trein?;0
+0;002;GRAM1;"Je/pense/que/#la robe/#verte/est/belle.";;
+0;003;GRAM1;"Donner/#une réponse/#complète/est/très/importante.";;
+0;004;GRAM1;"Jean/voit/#une fleur/#ouverte/dans/le jardin.";;
+0;005;GRAM1;"Daphné/voudrait/#une chaise/#différente/pour
+/sa chambre.";Wil daphne een andere tafel?;0
+0;006;GRAM1;"Louise/achète/#une jupe/#violette/dans
+/une boutique.";;
+0;007;GRAM1;"Patrick/habite/sur/#une île/#petite/près de
+/l'Afrique.";;
+0;008;GRAM1;"Je/voudrais/nager/dans/#la mer/#froide/demain.";;
+0;009;GRAM1;"Jean/lit/#une histoire/#intéressante/dans
+/le journal.";Leest jan een verhaal in een boek?;0
+0;010;GRAM1;"Maintenant/#la guerre/#violente/dure
+/trop/longtemps.";;
+0;011;GRAM1;"Elle/habite/dans/#une maison/#plaisante/à Paris.";;
+0;012;GRAM1;"Momo/parle/de/#la vie/#quotidienne/en Afrique.";;
+0;013;GRAM1;"Marie/mange/toujours/de/#la baguette/#française/à
+/la maison.";Eet marie thuis altijd stokbrood?;1
+0;014;GRAM1;"Je/préfère/#une table/#ronde/et/en bois.";;
+0;015;GRAM1;"C'était/#sa rentrée/#soudaine/qui/nous/a/surpris.";;
+0;016;GRAM1;"Ils/traiteront
+/l'imparfait/#la semaine/#prochaine/aussi.";;
+0;017;GRAM1;"Dans/#la nuite/#suivante/Jules/était/parti.";Vertrok Jules 's nachts?;1
+0;018;GRAM1;"Mimi/était/dans/#la catastrophe/#choquante/d'hier.";;
+0;019;GRAM1;"Thomas/et/didier/voient/#une vache/#brune/dehors.";Zien ze een schaap buiten?;0
+0;020;GRAM1;"Le pantalon/a/#une qualité/#excellente/selon
+/le vendeur.";;
+0;021;GRAM1;"C'est/#une existence/#indépendante/qu'on/souhaite
+/aujourd'hui.";;
+0;22;GRAM1;"Marnix/raconte/#cette histoire/#complète/à
+/toute/la classe.";;
+0;023;GRAM1;"Cela/est/#la religion/#dominante/dans/ce pays.";;
+0;024;GRAM1;"Je/vois/#la voiture/#verte/dans/la rue.";;
+0;025;GRAM1;"Personne/n'aime/#une tempête/#froide/en/été.";Houden sommigen van een koude storm tijdens de zomer?;0
+0;026;GRAM2;"Je/pense/que/sa manière/#est/#différente/que
+/la mienne.";;
+0;027;GRAM2;"Faite/attention,/la mer/#est/#profonde/ici.";;
+0;028;GRAM2;"La salle/#est/#petite/mais/cela/n'est/pas/grave.";Is het erg dat de zaal klein is?;0
+0;029;GRAM2;"La beauté/#est/#importante/pour/Claude/et/moi.";;
+0;030;GRAM2;"La passion/#est/#forte/entre/les/deux/amants.";;
+0;031;GRAM2;"Cette théorie/#est/#suffisante/pour
+/passer/l'examen.";;
+0;032;GRAM2;"La liberté/#est/#importante/pour/Gaston/et
+/Joséphine.";;
+0;033;GRAM2;"La question/#est/#urgente/mais/non/résolue.";Is de vraag beantwoord?;0
+0;034;GRAM2;"On/apprend/que
+/la révolution/#est/#profonde/en France.";;
+0;035;GRAM2;"La présentation/#est/#intéressante/selon/Quinn
+/et/Tess.";;
+0;036;GRAM2;"Sa culture/#est/#différente/que/la culture
+/anglaise.";Is zijn cultuur anders dan de engelse cultuur?;1
+0;037;GRAM2;"La méthode/#est/#précise/mais/assez/difficile.";Is de methode makkelijk?;0
+0;038;GRAM2;"La montagne/#est/#grise/et/couverte/de/la neige.";;
+0;039;GRAM2;"Victor Hugo/trouve/que/
+la solitude/#est/#parfaite/pour/sa carrrière.";;
+0;040;GRAM2;"Je/vois/que/ma voiture/#est/#pleine/de choses.";;
+0;041;GRAM2;"Une erreur/#est/#humaine/Annique/m'a/dit.";;
+0;042;GRAM2;"Je/pense/que/la loi/#est/#inhumaine/et
+/incroyable.";;
+0;043;GRAM2;"Sa manière/#est/#maladroite/mais/pas/chère.";Is zijn manier vreemd?;0
+0;044;GRAM2;"Cette fois/la soupe/#est/#chaude/grâce à/Charle.";;
+0;045;GRAM2;"Vous/voyez/que/la fenêtre/#est/#haute/dans
+/cette chambre?";;
+0;046;GRAM2;"Cette solution/#est/#simple/et/évidente/selon/Anna.";;
+0;047;GRAM2;"Une chose/#est/#certaine/c'est/que/l'amour
+/triomphe.";;
+0;048;GRAM2;"Je/pense/que/la guerre/#est/#pareille/dans
+/chaque pays.";Is er in ieder land oorlog?;0
+0;049;GRAM2;"Je/vois/que/la surprise/#est/#grosse/pour/ma mère.";;
+0;050;GRAM2;"La journée/#est/#mauvaise/pour/nous/tous.";;
+0;051;GRAM3;"Grâce à/la preuve/qui/#est/#évidente/la femme
+/est/en prison.";;
+0;052;GRAM3;"Je/préfère/une/ville/qui/#est/#vivante/mais/petite.";;
+0;053;GRAM3;"Didier/voit/une plante/qui/#est/#verte/dans
+/le parc.";Is didier in het park?;0
+0;054;GRAM3;"Eduardo/aime/cette pomme/qui/#est/#verte/et
+/délicieuse.";;
+0;055;GRAM3;"Timo/s'est/cassé/la jambe
+/qui/#est/#forte/malheureusement.";Heeft timo iets gebroken?;1
+0;056;GRAM3;"La recherche/qui/#est/#pertinente/est/publiée.";;
+0;057;GRAM3;"La note/qui/#est/#mauvaise/est/importante.";;
+0;058;GRAM3;"Elle/voit/une attaque/qui/#est/#violente/dans
+/le magasin.";;
+0;059;GRAM3;"La musique/qui/#est/#pleine/de/sensibilité
+/est/belle.";;
+0;060;GRAM3;"Jean/lit/la lettre/qui/#est/#courte/mais
+/importante.";;
+0;061;GRAM3;"La gare/qui/#est/#petite/n'est/pas/pratique.";;
+0;062;GRAM3;"La place/qui/#est/#grande/se trouve
+/au centre-ville.";Bevindt er zich een plein in het centrum?;1
+0;063;GRAM3;"Dans/la rue/qui/#est/#déserte/j'avais/couru.";;
+0;064;GRAM3;"N'oublie/pas/la liberté/qui/#est/#importante/dans
+/la vie.";;
+0;065;GRAM3;"La musique/qui/#est/#bonne/reste/inconnue.";;
+0;066;GRAM3;"Omar/fait/la tâche/qui/#est/#urgente/très/bien.";;
+0;067;GRAM3;"La violence/qui/#est/#inhumaine/n'est/pas
+/acceptable.";;
+0;068;GRAM3;"Ferme/la poubelle/qui/#est/#ouverte/pour/moi!";;
+0;069;GRAM3;"C'est/une conversation/qui/#est/#pleine/de
+/clichés.";Was het gesprek origineel?;0
+0;070;GRAM3;"Vivian/porte/une jupe/qui/#est/#grise/et/jaune.";;
+0;071;GRAM3;"Regardez/cette vue/qui/#est/#excellente/ici!";;
+0;072;GRAM3;"Momo/déteste/la popularité/
+qui/#est/#importante/à l'école.";;
+0;073;GRAM3;"Ils/parlent de/la pollution
+/qui/#est/#inderdite/depuis/quelques mois.";Praten ze al enkele maanden over de vervuiling?;0
+0;074;GRAM3;"Personne/n'aime/une fin/qui/#est/#ouverte/ou
+/mauvaise.";;
+0;075;GRAM3;"La nature/qui/#est/#diverse/a/disparue.";;
+0;076;FILLER;"Les trains/arrivent/toujours/trop/tard/à Paris.";;
+0;077;FILLER;"Je/pense/que/personne/ne/connait/mon secret.";;
+0;078;FILLER;"Thea/a/jeté/son portable/par/la fenêtre.";Gooide Thea haar portemonnée uit het raam?;0
+0;079;FILLER;"Hier/Antoine/est/allé/à/l'école/à pied.";Ging Antoine gister lopend naar school?;1
+0;080;FILLER;"Je/ne/sais/pas/pourquoi/il/est/venu.";;
+0;081;FILLER;"Je/pense/que/Milou/doit/aller/à l'hôpital.";;
+0;082;FILLER;"Pauline/ne/voudrait/pas/avoir/la vie/de/Fantine.";Wil Paulien ruilen van leven met Fantine?;0
+0;083;FILLER;"Je/me/demande/pourquoi/Didier/fait/ça.";;
+0;084;FILLER;"Quelqu'un/a/volé/mon sac-à-dos/et/mon portable.";;
+0;085;FILLER;"Daphné/espère/que/toute/la classe/va/danser
+/ce soir.";;
+0;086;FILLER;"Zeyno/prend/le bus/pour/y/aller.";;
+0;087;FILLER;"Je/t'ai/entendu/et/j'ai compris!";;
+0;088;FILLER;"Tout le monde/sait/que/les élèves/doivent
+/faire/leurs devoirs.";;
+0;089;FILLER;"Voyez-vous/le bâtiment/que/Fatima/a/fait?";Heeft Fatima het gebouw gemaakt?;
+0;090;FILLER;"Mes hobbies/sont/lire/et/discuter/avec/mes amis.";;

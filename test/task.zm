@@ -139,7 +139,7 @@ Block task
                 {
                     control.target = choose_1of2_page;
                     choose_1of2_page.set_text(item.question);
-                    choose_1of2_page.set_label_texts(" Yes ", " No ");
+                    choose_1of2_page.set_label_texts(" Ja ", " Nee ");
                     choose_1of2_page.set_answer_values(1, 0);
                     // Or choose the other way around with false and true
 //                    choose_1of2_page.set_label_texts("False", "True");
@@ -283,7 +283,7 @@ Block task
                 {
                     control.target = choose_1of2_page;
                     choose_1of2_page.set_text(item.question);
-                    choose_1of2_page.set_label_texts(" Yes ", " No ");
+                    choose_1of2_page.set_label_texts(" Ja ", " Nee ");
                     choose_1of2_page.set_answer_values(1, 0);
                     // Or choose the other way around with false and true
 //                    choose_1of2_page.set_label_texts("False", "True");
