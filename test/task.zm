@@ -56,26 +56,25 @@ Block task
         {
 //            pause_page.set_text_size(1000, 600);
             pause_page.set_text(
-                "<b>Dear participant,</b>\n"
+                "<b>Beste,</b>\n"
                 "\n"
-                "Thank you for participating in this experiment.\n"
+                "Dank je wel voor je deelname aan experiment.\n"
                 "\n"
-                "You are now going to see sentences on the screen, one after "
-                "the other. Each sentence is broken up into words. You can "
-                "reveal the sentence word-by-word by repeatedly hitting "
-                "the spacebar. "
+                "Je gaat nu zinnen op het scherm zien, de ene na de andere. "
+                "Elke zin is opgebroken in losse woorden. Je kunt de woorden "
+                "zichtbaar maken door steeds op de spatiebalk te drukken."
+
 //                "the button in front of you. "
-                "This way you walk through each sentence. Your task is to "
-                "<i>silently</i> read each sentence as quickly as possible.\n"
+                "Op deze manier loop je door de zinnen heen. Jouw taak is om "
+                "elke zin zo snel mogelijk <i>stil</i> te lezen.\n"
                 "\n"
-                "Sometimes a statement about a sentence comes up. You then "
-                "have to indicate whether the statement is correct or not. "
-                "Therefore it is important that you really <i>read</i> each "
-                "sentence.\n"
+                "Soms wordt een tekst gevolgd door een bewering. Je moet dan "
+                "aangeven of de bewering correct is of niet. "
+                "Daarom is het wel belangrijk dat je de zinnen echt <i>leest</i>.\n "
                 "\n"
-                "First we will do a short practice.\n"
+                "Eerst doen we een paar voorbeeld-teksten.\n"
                 "\n"
-                "<i>Hit Enter when ready to start.</i>", 
+                "<i>Druk op ENTER om aan het voorbeeld te beginnen</i>", 
 //                "<i>Hit any button on the button-box when ready to start.</i>", 
                 true);
 
@@ -169,12 +168,12 @@ Block task
         on_event:entry()
         {
             pause_page.set_text(
-                "End of the practice part.\n"
+                "Einde van het oefenvoorbeeld.\n"
                 "\n"
-                "If you have any questions at this moment please ask the "
-                "experimenter now.\n"
+                "Als je op dit moment nog vragen hebt, stel ze dan "
+                "nu aan de proefleider.\n"
                 "\n"
-                "<i>Hit Enter when ready to proceed.</i>", 
+                "<i>Druk op ENTER om door te gaan.</i>", 
 //                "<i>Hit any button on the button-box when ready to "
 //                "proceed.</i>", 
                 true);
