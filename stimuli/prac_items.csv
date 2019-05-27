@@ -1,14 +1,5 @@
 ###/Practice/items/###
 id;type;segments;question;qanswer
-001;FILLER;"In/het/tuincentrum/konden/Martine/en/Marije/
-genoeg/van/hun/gading/vinden./Martine/zocht/
-een/zes/appelbomen/van/een/ziektebestendig/
-ras/uit,/en/Marije/twaalf/bessenstruiken./
-Gelukkig/was/het/prima/weer/om/hun/nieuwe/
-aanwinsten/meteen/te/planten.";;
-002;FILLER;"Godelieve/en/Vincent/waren/net/verhuisd/
-en/waren/aan/het/klussen/op/zolder./Godelieve/
-zaagde/een/boekenplank/van/MDF,/terwijl/
-Vincent/de/kozijnen/verfde./Na/een/dag/
-hard/werken/gingen/ze/tevreden/slapen/
-in/hun/nieuwe/huis.";;
+001;GRAM1;"Emma/adore/jouer/du piano/chaque/semaine.";;
+002;GRAM1;"On/a/un/arbre/dans/le jardin.";;
+003;GRAM1;"Le président/ne/tient/pas/compte/du peuple.";Houdt de president rekening met het volk?;0
